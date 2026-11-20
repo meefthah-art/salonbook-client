@@ -2,9 +2,9 @@
 
 A salon appointment booking platform. Customers browse services, request appointments and pay online once an appointment is confirmed. The admin manages services, appointments, customers and transactions.
 
-**Live website: 
-**Client repository: 
-**Server repository:
+**Live website: https://salonbook-client-l63f.vercel.app
+**Client repository: https://github.com/meefthah-art/salonbook-client.git
+**Server repository: https://github.com/meefthah-art/salonbook-server.git
 
 ## Important Features
 
